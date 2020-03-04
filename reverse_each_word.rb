@@ -1,4 +1,5 @@
 def reverse_each_word(sentence1)
-  sentence1.each do |reverse|
+  ## turn string into Array
+  
   end
 end
